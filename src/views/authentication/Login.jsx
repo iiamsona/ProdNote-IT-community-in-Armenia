@@ -88,7 +88,7 @@ export default function Login() {
     };
 
     return (
-        <div style={{display: 'flex'}}>
+        <div style={{display: 'flex', backgroundColor: 'white'}}>
             <div style={{width: '40%', height: '100vh', background: '#9181F4'}}>
                 <img style={{width: '70%', marginTop: '30%'}} src={'/illustration.svg'}/>
             </div>
